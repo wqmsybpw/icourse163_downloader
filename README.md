@@ -1,5 +1,5 @@
 # icourse163_downloader
-仅供个人研究学习.
+中国大学mooc课程视频下载，仅供个人研究学习.
 
 # LICENSE
 ```text
